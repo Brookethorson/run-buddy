@@ -78,6 +78,7 @@ section {
     background-position: center;
     position: relative;
 }
+/* Hero Style End */
 
 .hero-form {
     border: 3px solid #024e76;
@@ -121,8 +122,6 @@ section {
     font-size: 16px;
 }
 
-/* Hero Style End */
-/* what-we-do Style Start*/
 .intro {
     text-align: center;
 }
@@ -141,10 +140,6 @@ section {
     color: #39a6b2;
     width: 80%;
     font-size: 20px;
-}
-
-.intro p {
-    /* add this alongside your other declarations */
     margin: 0 auto;
 }
 
@@ -153,23 +148,6 @@ section {
 .steps {
     text-align: center;
     background: #fce138;
-}
-
-.section-title {
-    font-size: 55px;
-    color: #026e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
-    border-bottom: 3px solid;
-}
-
-.primary-border {
-    border-color: #fce138;
-}
-
-.secondary-border {
-    border-color: #39a6b2;
 }
 
 .steps div {
@@ -183,7 +161,7 @@ section {
 
 .steps h3 {
     color: #024e76;
-    font-size: 46px;
+    font-size:  46px;
     margin-top: 10px;
 }
 
@@ -198,11 +176,26 @@ section {
 /* What you do Style End */
 
 /*Trainers Style Start*/
+.section-title {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+}
+
+.primary-border {
+    border-color: #fce138;
+}
+
+.secondary-border {
+    border-color: #39a6b2;
+}
 
 .trainers {
     text-align: center; 
 }
-
 
 .trainer {
     width: 900px;
@@ -223,13 +216,6 @@ section {
     width: 65%;
 }
 
-.text-left {
-    text-align: left;
-}
-
-.text-right {
-    text-align: right;
-}
 .trainer-bio h3 {
     font-size: 32px;
     margin-bottom: 8px;
@@ -245,3 +231,10 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+.text-left {
+    text-align: left;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
