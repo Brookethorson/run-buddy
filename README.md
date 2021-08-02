@@ -12,3 +12,6 @@ https://github.com/Brookethorson/run-buddy.git
 
 ## Contribution
 Made with ❤️ by Brooe Thorson 
+
+
+### ©️2019 Run Buddy, Inc 
