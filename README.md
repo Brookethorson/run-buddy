@@ -4,8 +4,8 @@
 A Website that offers fitness traininer services.
 
 ## Built with
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://github.com/Brookethorson/run-buddy.git
