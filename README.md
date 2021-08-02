@@ -3,11 +3,11 @@
 ## Purpose
 A Website that offers fitness traininer services.
 
-##Built with
+## Built with
 *HTML
 *CSS
 
-##Website
+## Website
 https://github.com/Brookethorson/run-buddy.git
 
 ## Contribution
