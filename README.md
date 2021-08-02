@@ -11,7 +11,7 @@ A Website that offers fitness traininer services.
 https://github.com/Brookethorson/run-buddy.git
 
 ## Contribution
-Made with ❤️ by Brooe Thorson 
+Made with ❤️ by Brooke Thorson 
 
 
 ### ©️2019 Run Buddy, Inc 
